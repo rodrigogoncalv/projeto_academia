@@ -12,6 +12,7 @@
 -  [Number Counter](https://www.npmjs.com/package/number-counter) - gerador de números com animação de incremento
 
 ### Executar projeto
+- `npm install`
 - `npm run dev`
 
 ### Tecnologias
